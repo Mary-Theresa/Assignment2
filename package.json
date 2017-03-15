@@ -1,0 +1,25 @@
+{
+  "name": "home-sessions-day2",
+  "version": "1.0.0",
+  "description": "Assignments for home-day1",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marytheresa/home-sessions-day2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marytheresa/home-sessions-day2/issues"
+  },
+  "homepage": "https://github.com/marytheresa/home-sessions-day2#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
