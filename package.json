@@ -1,7 +1,7 @@
 {
   "name": "home-sessions-day2",
   "version": "1.0.0",
-  "description": "Assignments for home-day1",
+  "description": "Assignments for home-day2",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/marytheresa/home-sessions-day2#readme",
   "dependencies": {
-    "jasmine": "^2.5.3"
+    "jasmine": "^2.5.3",
+    "request": "^2.81.0"
   }
 }
